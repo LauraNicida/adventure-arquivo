@@ -1,0 +1,17 @@
+{
+  "name": "adventure_arquivo",
+  "version": "1.0.0",
+  "description": "Este pacote atende aos critérios da disciplina com **6+ salas**, **6+ objetos**, **4 ferramentas**, diagrama de classes e execução via **Node.js** usando as **classes básicas do professor**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bycontract": "^2.0.11",
+    "prompt-sync": "^4.2.0"
+  }
+}
